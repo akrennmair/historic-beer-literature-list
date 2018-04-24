@@ -221,7 +221,7 @@
 
 ### Hochnutzbar und bewährte Edle Bierbrau-Kunst Lehrend Die rechte Art u. Weise gut, wolschmeckend, gesund und kräfftig Bier zu brauen, und dasselbige bey gutem Stande im Brauhause und Keller zu erhalten daß es nicht verderbe, sauer und abgeschmackt werde, oder so es ja etwas Noth litte, durch diensame Mittel wiederum zu bessern und trinklich zu machen.
 
-* Author: David Kellnern
+* Author: David Kellner
 * Place: Leipzig und Eisenach
 * Year: 1710
 * URL: https://play.google.com/books/reader?id=nNBXAAAAcAAJ
@@ -296,6 +296,189 @@
 * Year: 1855
 * URL: https://play.google.com/books/reader?id=jio7AAAAcAAJ
 
+### Der wohlerfahrne Mälzer und Brauer oder die Kunst gutes und gesundes Bier aller Orten zu brauen.
+
+* Author: Johann Wilhelm Schneider
+* Place: Leipzig und Gera
+* Year: 1802
+* URL: https://play.google.com/books/reader?id=YHMlz4ZDUSQC
+
+### Der vollkommene Bierbrauer. Oder kurzer Unterricht alle Arten Biere zu brauen, wie auch verdorbene Biere wieder gut zu machen, auch alle Arten von Kräuter-Bieren.
+
+* Author: Johann Heinrich Kaven?
+* Place: Altona und Leipzig
+* Year: 1795
+* URL: https://play.google.com/books/reader?id=8MaPIma7F6EC
+
+### Die bayerische Braunbierbrauerei, dann Angabe der Mittel, trübe und saure Biere wieder gut und glanzhell zu machen, und Beschreibung der neuesten und bewährten Methode, den Gehalt des Biers ganz genau zu ermitteln, endlich das ältere und neue Biergesetz, bezüglich der Verhältnisse zwischen Brauer und Wirth, und als Nachtrag Anleitung zur Anlegung eines Hopfengartens.
+
+* Author: A. Hermann
+* Place: Nürnberg
+* Year: 1848
+* URL: https://books.google.com/books?id=avY6AAAAcAAJ
+
+### Der bayerische Bierbrauer in der Malztenne, im Brauhause und Gährkeller, dann beim Gersten- und Hopfen-Einkaufe etc.
+
+* Author: A. Herrmann
+* Place: Nürnberg
+* Year: 1839
+* URL: https://play.google.com/books/reader?id=MQRCMlMJqfgC
+
+### Practischer Unterricht in der Malzbereitung oder die erprobt beste practische Art und Weise, aus Gerste ein vollkommen gutes Malz zum Brauen eines gehaltvollen, reinen und angenehm schmeckenden Braunbieres zu verfertigen
+
+* Author: J. F. Zerzog
+* Place: Bayreuth
+* Year: 1837
+* URL: https://play.google.com/books/reader?id=63U7AAAAcAAJ
+
+### Der vollkommene Hefenfabrikant oder Darstellung der Bereitung der flüssigen Hefe für Bäker, Bierbrauer und Brantweinbrenner, so wie der Pfund- und Preßhefe.
+
+* Author: Johann Carl Leuchs
+* Place: Nürnberg
+* Year: 1851
+* URL: https://play.google.com/books/reader?id=kCk7AAAAcAAJ
+
+### Kurze und deutliche Anweisung gutes Bier, das nicht bald sauer wird, wie auch ausländisches zu brauen
+
+* Author: Adam Friedrich Ernst Jacobi
+* Place: Leipzig
+* Year: 1801
+* URL: https://play.google.com/books/reader?id=wLdPAAAAcAAJ
+
+### Ueber das Bierbraurecht in Baiern
+
+* Author: Franz Xaver von Moshamm
+* Place: Ingolstadt
+* Year: 1791
+* URL: https://play.google.com/books/reader?id=yi9BAAAAcAAJ
+
+### Taschenbuch der Bayerischen Bierbrauerei.
+
+* Author: Alexander Ziegler
+* Place: Leipzig
+* Year: 1849
+* URL: https://play.google.com/books/reader?id=DHY7AAAAcAAJ
+
+### Theorie und Praxis der Bierbrauerei dargestellt in kurzen leichtfaßlichen Sätzen.
+
+* Author: Heinrich Creuzberg
+* Place: Weimar
+* Year: 1866
+* URL: https://play.google.com/books/reader?id=yOQ0Txi4spQC
+
+### Die Geschichte des fränkischen Hopfenbaues nebst einer Betrachtung der Entwicklung und Organisation des Nürnberger Hopfenmarktes
+
+* Author: Robert Ehrenbacher
+* Place: Nürnberg
+* Year: 1915
+* URL: https://archive.org/details/DieGeschichteDesFrankischenHopfenbauesNebstEiner
+
+### Geschichte des Bieres von der ältesten Zeit bis zum Jahre 1899
+
+* Author: Carl Michel
+* Place: Augsburg
+* Year: 1899
+* URL: http://daten.digitale-sammlungen.de/~db/0007/bsb00074275/images/
+
+### Vollständige Braukunde, oder wissenschaftlich-praktische Darstellung der Bierbrauerei in ihrem ganze Umfange und nach den neusten Verbesserungen
+
+* Author: Johann Carl Leuchs
+* Place: Nürnberg
+* Year: 1831
+* URL: https://play.google.com/books/reader?id=eDA7AAAAcAAJ
+
+### Die Entwicklung des Bayerischen Braugewerbes im neunzehnten Jahrhunderts
+
+* Author: Emil Struve
+* Place: Leipzig
+* Year: 1893
+* URL: https://archive.org/stream/staatsundsozial15unkngoog
+
+### Der Hopfen aller hopfenbauenden Länder der Erde als Braumaterial
+
+* Author: Dr. Richard Braungart
+* Place: München und Leipzig
+* Year: 1901
+* URL: https://archive.org/details/derhopfenallerho00brauuoft
+
+### Münchener Bier-Chronik
+
+* Author: Josef Benno Sailer
+* Place: München
+* Year: 1929
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049116/images/
+
+### Neuestes illustriertes Taschenbuch der Bayerischen Bierbrauerei mit Berücksichtigung der wichtigsten theoretischen Sätze
+
+* Author: Hermann Pfauth
+* Place: Stuttgart
+* Year: 1870
+* URL: https://opacplus.bsb-muenchen.de/Vta2/bsb10704296/bsb:BV014205730
+
+### Beschreibung der Fabrikation des Braunbiers in Jena
+
+* Author: Dr. Franz Döbereiner
+* Place: Jena
+* Year: 1849
+* URL: http://digital.slub-dresden.de/werkansicht/dlf/1979/1/
+
+### Die Bierbrauerei auf der höchsten Stufe der jetzigen Vollkommenheit
+
+* Author: J. H. M. Poppe
+* Place: Tübingen
+* Year: 1826
+* URL: https://play.google.com/books/reader?id=fsVaAAAAcAAJ
+
+### Münchner Oktoberfest
+
+* Author: Josef Benno Sailer
+* Place: München
+* Year: 1932
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00048887/images/index.html
+
+### Die Berliner Brau-Industrie
+
+* Author: Leo Nast
+* Place: Berlin
+* Year: 1916
+* URL: https://archive.org/stream/dieberlinerbraui00nast
+
+### Die Bierbrauerei in ihrem ganzen Umfange
+
+* Author: Carl Wilhelm Schmidt
+* Place: Züllichau
+* Year: 1820
+* URL: http://digital.slub-dresden.de/werkansicht/dlf/2291/1/
+
+### Die Herstellung obergäriger Biere und die Malzbierbrauerei Groterjan A.G. in Berlin
+
+* Author: A. Dörfel
+* Place: Berlin
+* Year: 1947
+* URL: https://s3-eu-west-1.amazonaws.com/andreasdotorg-bucket/Groterjan-Doerfel.pdf
+
+### Anweisung zum kunstmäßigen Brauen des Weißbiers
+
+* Author: Johann Christoph Jordan
+* Place: Hannover
+* Year: 1799
+* URL: https://gdz.sub.uni-goettingen.de/id/PPN672719770
+
+### Katechismus des Braumeisters oder leichtfaßliche Anleitung, die Meisterprüfung der Bierbrauerei nach den Anforderungen der neuesten gesetzlichen Bestimmungen bestehen zu können
+
+* Author: ???
+* Place: München
+* Year: 1865
+* URL: https://play.google.com/books/reader?id=efs6AAAAcAAJ
+
+### Handbuch der praktischen Bierbrauerei nach den neuesten und bewährtesten Methoden mit Einschluß des Filz-Malzens, der Bereitung der wichtigsten Biersorten, der Dampfbrauerei, und der Anlage von Brauereigebäuden.
+
+* Author: Dr. Julius Ludwig Gumbinner
+* Place: Berlin
+* Year: 1845
+* URL: https://play.google.com/books/reader?id=9S5FAAAAYAAJ
+
+
 ## Austria
 
 ### Die Dampfbrierbräuerey oder die Kunst mittels Dampf Bier zu brauen ohne zu schmelzen
@@ -332,4 +515,46 @@
 * Place: Wien
 * Year: 1874
 * URL: https://play.google.com/books/reader?id=jUh-9KvRfFQC
+
+### Die Bierbrauerei und Die Malzextrakt-Fabrikation
+
+* Author: Hermann Rüdinger
+* Place: Wien, Pest, Leipzig
+* Year: 1876
+* URL: https://play.google.com/books/reader?id=kvc_ie2qcVYC
+
+### Die Malz-Kartoffel-Stärkemehl-Bierbrauerei oder: Anleitung zur Anwendung von Kartoffelstärkemehl als Ersatz eines Theils des Gerstenmalzes bei der Biererzeugung.
+
+* Author: Karl Balling
+* Place: Prag
+* Year: 1844
+* URL: https://play.google.com/books/reader?id=-UD11ldvykEC
+
+### Die Gährungschemie wissenschaftlich begründet und in ihrer Anwendung auf die Bierbrauerei, Branntweinbrennerei, Hefenerzeugung, Weinbereitung und Essigfabrikation
+
+* Author: Carl J. N. Balling
+* Place: Prag
+* Year: 1865
+* URL: https://play.google.com/books/reader?id=ncnUVTd7G0AC
+
+### Vom Steinbier
+
+* Author: Raimund Dürnwirth
+* Place: Klagenfurt
+* Year: 1905
+* URL: https://de.wikisource.org/wiki/Vom_Steinbier
+
+### Anton Dreher, biographische Skizze
+
+* Author: Eduard Hensel
+* Place: Wien
+* Year: 1864
+* URL: https://play.google.com/books/reader?id=v2McUMoZX90C
+
+### Die Bier-Production in Oesterreich-Ungarn, im Deutschen Reich, in Grossbritannien und Irland, Belgien, Frankreich, den Niederlanden, Schweden und Norwegen, Russland und Nord-Amerika
+
+* Author: Gustav Noback
+* Place: Wien
+* Year: 1873
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11162159_00005.html
 
