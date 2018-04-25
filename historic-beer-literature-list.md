@@ -558,3 +558,90 @@
 * Year: 1873
 * URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11162159_00005.html
 
+## United Kingdom
+
+### The Compleat Brewer ; Or, the Art and Mystery of Brewing Explained
+
+* Author: George Watkins
+* Place: London
+* Year: 1760
+* URL: https://books.google.de/books?id=X2lHAAAAYAAJ
+
+### The Scottish Ale-Brewer and Practical Maltster, a Comprehensive Digest of the Art of Brewing Ales According to the Scottish System.
+
+* Author: W. H. Roberts
+* Place: Edinburgh
+* Year: 1857
+* URL: https://play.google.com/books/reader?id=WBkZAAAAYAAJ
+
+### The London and Country Brewer.
+
+* Author: William Ellis
+* Place: London
+* Year: 1737
+* URL: https://play.google.com/books/reader?id=63FZAAAAYAAJ
+
+### The Private Brewer's Guide to the Art of Brewing Ale and Porter
+
+* Author: John Tuck
+* Place: London
+* Year: 1822
+* URL: https://play.google.com/books/reader?id=ZBtdAAAAcAAJ
+
+### The Modern Domestic Brewer.
+
+* Author: George Cooper
+* Place: London
+* Year: 1811
+* URL: https://play.google.com/books/reader?id=45pgAAAAcAAJ
+
+### The Brewers Guide; A New Work, Containing the Whole Theory and Practice of Brewing Ales and Porter.
+
+* Author: G. Lloyd Worthington
+* Place: London
+* Year: 1812
+* URL: https://play.google.com/books/reader?id=-JpgAAAAcAAJ
+
+### Every Man his own Brewer; Or, a Compendium of the English Brewery.
+
+* Author: Samuel Child
+* Place: London
+* Year: 1768
+* URL: https://play.google.com/books/reader?id=fLM6AQAAMAAJ
+
+### The Theory and Practice of Malting and Brewing.
+
+* Author: ???
+* Place: Edinburgh
+* Year: 1793
+* URL: https://play.google.com/books/reader?id=_h1dAAAAcAAJ
+
+## United States of America
+
+### American Handy Book of the Brewing, Malting and Auxiliary Trades
+
+* Author: Robert Wahl, Max Henius
+* Place: Chicago
+* Year: 1901
+* URL: https://babel.hathitrust.org/cgi/pt?id=wu.89047299904
+
+### Handbuch für den Amerikanischen Brauer und Mälzer.
+
+* Author: Ernst Hantke
+* Place: Milwaukee
+* Year: 1896
+* URL: https://babel.hathitrust.org/cgi/pt?id=wu.89102031085
+
+### The Practical Brewer, a Manual for the Brewing Industry
+
+* Author: Edward H. Vogel, Jr., Frank H. Schwaiger, Henry G. Leonhardt, J. Adolf Merten
+* Place: St. Louis
+* Year: 1946
+* URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015053239631
+
+### The Complete Practical Brewer; Or, Plain, Accurate, and Thorough Instructions in the Art of Brewing Ale, Beer, and Porter; including the Process of Making Bavarian Beer;
+
+* Author: Henry Carey Baird
+* Place: Philadelphia
+* Year: 1852
+* URL: https://play.google.com/books/reader?id=XJ3KR25a-DIC
