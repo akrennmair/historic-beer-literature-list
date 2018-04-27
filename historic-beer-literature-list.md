@@ -478,6 +478,152 @@
 * Year: 1845
 * URL: https://play.google.com/books/reader?id=9S5FAAAAYAAJ
 
+### Der praktische Bierbrauer. Ein Hilfsbuch und Leitfaden zur Ausübung der Malz- und Bierbereitung
+
+* Author: Karl Michel
+* Place: Stuttgart
+* Year: 1897
+* URL: https://play.google.com/books/reader?id=3vs7AQAAMAAJ
+
+### Gründliche Bemerkungen über die gegenwärtigen Verhältnisse der Brauereyen im Allgemeinen, und der Münchner Brauer insbesondere. Gegen das jüngst im Drucke erschienene Gespräch in der Schenke zu Nulldorf über den neuen Biersatz.
+
+* Author: ???
+* Place: München
+* Year: 1821
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10371176_00005.html
+
+### Das Brauwesen, Branntweinbrennen und der Malzaufschlag im Königreiche Bayern in polizeilicher und kameralistischer Beziehung.
+
+* Author: Georg Döllinger
+* Place: Nördlingen
+* Year: 1843
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10372687_00005.html
+
+### Der Bier-Brauer als Meister in seinem Fache
+
+* Author: A. F. Zimmermann
+* Place: Berlin
+* Year: 1842
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10703040_00005.html
+
+### Die Schule der Bierbrauerei. Illustrirtes Hand- und Hülfsbuch für Brauer sowie für Anfänger dieses Gewerbes.
+
+* Author: G. E. Habich
+* Place: Leipzig und Berlin
+* Year: 1863
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11282403_00007.html
+
+### Praktische Anweisung gutes Bier zu brauen
+
+* Author: Johann Ludwig Timotheus Zitzmann
+* Place: Koburg
+* Year: 1790
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10293768_00005.html
+
+### Mittheilungen aus Baiern über Malzen, Brauen u. Gähren in Nürnberg
+
+* Author: ???
+* Place: Nürnberg
+* Year: 1839
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10297720_00003.html
+
+### Münchener Bier-Chronik 1904
+
+* Author: ???
+* Place: München
+* Year: 1904
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049144/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1905
+
+* Author: ???
+* Place: München
+* Year: 1905
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049145/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1906
+
+* Author: ???
+* Place: München
+* Year: 1906
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049146/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1907
+
+* Author: ???
+* Place: München
+* Year: 1907
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049147/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1908
+
+* Author: ???
+* Place: München
+* Year: 1908
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049148/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1909
+
+* Author: ???
+* Place: München
+* Year: 1909
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049149/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1910
+
+* Author: ???
+* Place: München
+* Year: 1910
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049150/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1911
+
+* Author: ???
+* Place: München
+* Year: 1911
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049151/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1912
+
+* Author: ???
+* Place: München
+* Year: 1912
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049152/images/index.html?seite=00001&l=de
+
+### Münchener Bier-Chronik 1913
+
+* Author: ???
+* Place: München
+* Year: 1913
+* URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00049153/images/index.html?seite=00001&l=de
+
+### Über das Bier im Allgemeinen und die Bierfabrikation in Kaufbeuren insbesondere.
+
+* Author: Dr. K. Lintner
+* Place: Kaufbeuren
+* Year: 1857
+* URL: http://daten.digitale-sammlungen.de/~db/0011/bsb00112838/images/index.html?id=00112838
+
+### Neue Methode das Bier auf seine wesentlichen Bestandtheile zu untersuchen
+
+* Author: Johann Nepomuk von Fuchs
+* Place: Stuttgart
+* Year: 1836
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10074208_00007.html
+
+### Vollständiger und gründlicher Unterricht über den Bier- und Frucht-Essig : auch lehrreich für Mälzer, Bierbrauer und Branntweinbrenner ; mit vielen bisher geheimen Vortheilen und Erläuterungen über die verschiedenen Gährungs-Perioden
+
+* Author: Benedikt Elkemann
+* Place: Düßeldorf
+* Year: 1807
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10295001_00005.html
+
+### Erfahrungen eines bayerischen Bierbrauers, über die Art und Weise, stets gleichmäßig kräftiges, wohlschmeckendes und helles Bier zu erzeugen.
+
+* Author: Johann G. Boß
+* Place: Ansbach
+* Year: 1852
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10294356_00005.html
 
 ## Austria
 
