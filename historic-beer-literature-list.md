@@ -625,6 +625,27 @@
 * Year: 1852
 * URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10294356_00005.html
 
+### Die Malz-Getreide-Bierbrauerei und die belgische Brauart wissenschaftlich und technisch dargestellt
+
+* Author: Karl Balling
+* Place: Prag
+* Year: 1845
+* URL: https://play.google.com/books/reader?id=GtbDCmJ3UrgC
+
+### Das Lübecker Braugewerbe bis zur Aufhebung der Brauerzunft 1865
+
+* Author: Hans Albrecht
+* Place: Lübeck
+* Year: 1915
+* URL: https://archive.org/details/daslubeckerbraug00albr
+
+### Die Zunft der Brauer in Köln in ihrem inneren Wesen und Wirken, nebst den im Jahre 1603 erneuerten uralten Ordnungen und dem 1497 erneuerten Amtsbriefe.
+
+* Author: Wilhelm Scheben
+* Place: Köln
+* Year: 1880
+* URL: https://archive.org/details/diezunftderbraue00sche
+
 ## Austria
 
 ### Die Dampfbrierbräuerey oder die Kunst mittels Dampf Bier zu brauen ohne zu schmelzen
@@ -704,6 +725,13 @@
 * Year: 1873
 * URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11162159_00005.html
 
+### Der Getreidestein (Zeilithoid) und seine Anwendung zur Biererzeugung auf kaltem Wege besonders anwendbar in heißen Klimaten und auf langen Seereisen historisch und nach den bisher gemachten Erfahrungen erläutert
+
+* Author: Karl Balling
+* Place: Prag
+* Year: 1852
+* URL: https://play.google.com/books/reader?id=TMk6AAAAcAAJ
+
 ## United Kingdom
 
 ### The Compleat Brewer ; Or, the Art and Mystery of Brewing Explained
@@ -762,6 +790,55 @@
 * Year: 1793
 * URL: https://play.google.com/books/reader?id=_h1dAAAAcAAJ
 
+### The Art of Brewing
+
+* Author: David Booth
+* Place: London
+* Year: 1834
+* URL: https://play.google.com/books/reader?id=9xgZAAAAYAAJ
+
+### A Treatise on Brewing
+
+* Author: Alexander Morrice
+* Place: London
+* Year: 1815
+* URL: https://archive.org/stream/b29319201
+
+### The Art of Brewing Practical and Theoretical
+
+* Author: Frank Faulkner
+* Place: London
+* Year: 1876
+* URL: https://archive.org/stream/b28103646
+
+### A Text-Book of the Science of Brewing
+
+* Author: Edward Ralph Moritz, George Harris Morris
+* Place: London
+* Year: 1891
+* URL: https://archive.org/stream/b28073861
+
+### Brewing
+
+* Author: A. Chaston Chapman
+* Place: Cambridge
+* Year: 1912
+* URL: https://archive.org/details/b28077118
+
+### A Practical Treatise on Brewing, and on Storing of Beer
+
+* Author: William Black
+* Place: London
+* Year: 1835
+* URL: https://archive.org/stream/b29323022
+
+### The Principles and Practice of Brewing
+
+* Author: Walter J. Sykes, Arthur R. Ling
+* Place: London
+* Year: 1907
+* URL: https://archive.org/details/principlespracti00syke
+
 ## United States of America
 
 ### American Handy Book of the Brewing, Malting and Auxiliary Trades
@@ -791,3 +868,89 @@
 * Place: Philadelphia
 * Year: 1852
 * URL: https://play.google.com/books/reader?id=XJ3KR25a-DIC
+
+### The American Practical Brewer And Tanner
+
+* Author: Joseph Coppinger
+* Place: New York
+* Year: 1815
+* URL: https://ia800502.us.archive.org/27/items/theamericanpract20663gut/20663.txt
+
+
+### Documentary History of the United States Brewers' Association
+
+* Author: ???
+* Place: New York
+* Year: 1896
+* URL: https://archive.org/stream/cu31924030091262
+
+### The 1915 Year Book of the United States Brewers' Association
+
+* Author: ???
+* Place: New York
+* Year: 1915
+* URL: https://archive.org/details/yearbookuniteds10assogoog
+
+### The Year Book of the United States Brewers' Association
+
+* Author: ???
+* Place: New York
+* Year: 1910
+* URL: https://archive.org/details/yearbookuniteds13assogoog
+
+### United States Brewers' Association The Year Book And Proceedings of the Fifty-Second Annual Convention held in Boston, Mass.
+
+* Author: ???
+* PLace: New York
+* Year: 1913
+* URL: https://archive.org/details/yearbookuniteds07assogoog
+
+### The Year Book of the United States Brewers' Association
+
+* Author: ???
+* Place: New York
+* Year: 1909
+* URL: https://archive.org/details/yearbookuniteds09assogoog
+
+### United States Brewers' Association The Year Book And Proceedings of the Fifty-First Annual Convention held in Chicago, Ill.
+
+* Author: ???
+* Place: New York
+* Year: 1911
+* URL: https://archive.org/details/yearbookuniteds12assogoog
+
+### The 1917 Year Book of the United States Brewers' Association
+
+* Author: ???
+* Place: New York
+* Year: 1918
+* URL: https://archive.org/details/yearbookuniteds03assogoog
+
+### United States Brewers' Association The Year Book And Proceedings of the Fifty-Third Annual Convention held in Atlantic City, N. J.
+
+* Author: ???
+* Place: New York
+* Year: 1914
+* URL: https://archive.org/details/yearbookuniteds11assogoog
+
+### How To Brew Good Beer. A Complete Guide to the Art of Brewing Ale, Bitter Ale, Table-Ale, Brown Stout, Porter, and Table-Beer.
+
+* Author: John Pitt
+* Place: London
+* Year: 1864
+* URL: https://archive.org/stream/0163HOWT
+
+### Twenty-Five Year of Brewing, with an Illustrated History of American Beer, Dedicated to the Friends of George Ehret
+
+* Author: ???
+* Place: New York
+* Year: 1891
+* URL: https://archive.org/details/twentyfiveyearso00ehre
+
+
+### Beer, Its History and Its Economic Value as a National Beverage
+
+* Author: F. W. Salem
+* Place: Hartford, Conn.
+* Year: 1880
+* URL: https://archive.org/details/beeritshistoryit00sale
