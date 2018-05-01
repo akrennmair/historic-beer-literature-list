@@ -646,6 +646,55 @@
 * Year: 1880
 * URL: https://archive.org/details/diezunftderbraue00sche
 
+### Detaillirte bautechnische Beschreibung Bayerischer Bierbrauereigebäude mit Sudwerken von 14 und 8 Schäffeln Malz, nebst vorausgeschickter übersichtlicher Darstellung des technischen Braubetriebs.
+
+* Author: Dr. Karl Wilh. Dempp
+* Place: München
+* Year: 1843
+* URL: https://opacplus.bsb-muenchen.de/Vta2/bsb10372493/bsb:BV010769609?page=5
+
+### Manual für den Practischen Brauerei-Betrieb
+
+* Author: Carl Michel
+* Place: München
+* Year: 1886
+* URL: http://daten.digitale-sammlungen.de/~db/0007/bsb00074278/images/index.html
+
+### Der Berliner Bierboykott von 1894. Ein Beitrag zur Geschichte der socialen Klassenkämpfe der Gegenwart.
+
+* Author: Emil Struve
+* Place: Berlin
+* Year: 1897
+* URL: http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11124144_00005.html
+
+### Das Bier, vorzüglich das bayer'sche Bier, als Beförderungs-Quelle der Gesundheit und des körperlichen Wohlbefindens der Menschen.
+
+* Author: ???
+* Place: Augsburg
+* Year: 1855
+* URL: https://opacplus.bsb-muenchen.de/Vta2/bsb10297171/bsb:BV016507138?page=6
+
+### Beiträge zur Geschichte des Biers und der Brauerei
+
+* Author: Prof. Dr. Max Delbrück, Prof. Dr. Emil Struve
+* Place: Berlin
+* Year: 1903
+* URL: https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-D-2669820
+
+### Betriebs-Kontrolle für Brauerei und Mälzerei
+
+* Author: Karl Michel
+* Place: Mannheim
+* Year: 1898
+* URL: https://babel.hathitrust.org/cgi/pt?id=uc1.31175017614457;view=1up;seq=5
+
+### Handbuch der Brauwissenschaft
+
+* Author: Edward Ralph Moritz, George Harris Morris, Dr. Wilhelm Windisch
+* Place: Berlin
+* Year: 1893
+* URL: https://babel.hathitrust.org/cgi/pt?id=uc1.31175005655280
+
 ## Austria
 
 ### Die Dampfbrierbräuerey oder die Kunst mittels Dampf Bier zu brauen ohne zu schmelzen
@@ -731,6 +780,20 @@
 * Place: Prag
 * Year: 1852
 * URL: https://play.google.com/books/reader?id=TMk6AAAAcAAJ
+
+### Die sacharometrische Bier- und Branntweinmeischprobe
+
+* Author: Carl J. N. Balling
+* Place: Prag
+* Year: 1846
+* URL: https://opacplus.bsb-muenchen.de/Vta2/bsb10293882/bsb:BV010813526?page=5
+
+### Die Dampf-Brauerei. Eine Darstellung des gesammten Brauwesens nach dem neuesten Stande des Gewerbes. Mit besonderer Berücksichtigung der Dickmaisch- (Decoctionsbrauerei) nach bayrischer, Wiener und böhmischer Braumethode und des Dampfbetriebs.
+
+* Author: Franz Cassian
+* Place: Wien, Pest, Leipzig
+* Year: 1887
+* URL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433008170395;view=1up;seq=7
 
 ## United Kingdom
 
