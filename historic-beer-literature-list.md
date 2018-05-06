@@ -1017,3 +1017,11 @@
 * Place: Hartford, Conn.
 * Year: 1880
 * URL: https://archive.org/details/beeritshistoryit00sale
+
+### American Brewer's Review, Vol. XI, No. I
+
+* Author: Dr. Robert Wahl and Dr. Max Henius, Editors
+* Place: Chicago and New York
+* Year: 1897
+* URL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433008873584
+
