@@ -695,6 +695,20 @@
 * Year: 1893
 * URL: https://babel.hathitrust.org/cgi/pt?id=uc1.31175005655280
 
+### Unterricht für Bierbrauer im Königreiche Würtemberg über die, ihr Gewerbe berührenden Gesetze, Instruktionen, Verfügungen und Erlasse
+
+* Author: H. Richter
+* Place: Tübingen
+* Year: 1838
+* URL: https://babel.hathitrust.org/cgi/pt?id=chi.73147723
+
+### Vollkommene Bierbrauerei nebst Branntwein-Brennerei und Essig-Fabrikation
+
+* Author: ???
+* Place: Ulm
+* Year: 1836
+* URL: https://play.google.com/books/reader?id=h27sFhxCX0kC
+
 ## Austria
 
 ### Die Dampfbrierbräuerey oder die Kunst mittels Dampf Bier zu brauen ohne zu schmelzen
@@ -794,6 +808,13 @@
 * Place: Wien, Pest, Leipzig
 * Year: 1887
 * URL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433008170395;view=1up;seq=7
+
+### Die Theorie und Praxis der Malzbereitung Bierfabrikation. Mit besonderer Berücksichtigung des Wiener Brauverfahrens.
+
+* Author: Julius E. Thausing
+* Place: Leipzig
+* Year: 1877
+* URL: https://babel.hathitrust.org/cgi/pt?id=chi.086461666
 
 ## United Kingdom
 
@@ -1024,4 +1045,18 @@
 * Place: Chicago and New York
 * Year: 1897
 * URL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433008873584
+
+### Brauereibetrieb in den Vereinigten Staaten von Nord Amerika
+
+* Author: Robert Wahl, PhD, Max Henius, PhD
+* Place: Chicago
+* Year: 1910
+* URL: https://babel.hathitrust.org/cgi/pt?id=hvd.32044091953075
+
+### Letters on Brewing, Edited by Hantke's Brewers' School and Laboratories
+
+* Author: Ernst Hantke (?)
+* Place: Milwaukee, Wisconsin
+* Year: 1900
+* URL: https://babel.hathitrust.org/cgi/pt?id=wu.89102031143
 
