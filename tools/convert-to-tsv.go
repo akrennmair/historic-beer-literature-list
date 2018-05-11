@@ -1,3 +1,6 @@
+// this tool was used to convert the original md file to TSV. The TSV file is the authoritative
+// data source, all other data files shall be converted from it. This source file is only here
+// to document the conversion process.
 package main
 
 import (
